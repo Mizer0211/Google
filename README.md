@@ -1,2 +1,2 @@
 # Google
-                                                                                                                                                        Pasts   Attēli
+                                                                                                                                Pasts   Attēli

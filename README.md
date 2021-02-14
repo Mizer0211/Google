@@ -1,5 +1,5 @@
 <html>
     <body>
-                                                                                     Pasts   Attēl   *Ieiet*
+                                                                                     Pasts   Attēl   Ieiet
     </body>
 </html>

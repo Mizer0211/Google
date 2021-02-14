@@ -1,2 +1,2 @@
 # Google
-                                                                                        Pasts   Attēli  <h3 style="color: blue">Ieiet</h3>
+                                                                                        Pasts   Attēli  <!-- <h3 style="color: blue"> -->Ieiet<!-- </h3> -->

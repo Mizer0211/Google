@@ -1,2 +1,2 @@
 # Google
-                                                                                        Pasts   Attēli  <u>Ieiet</u>
+                                                                                        Pasts   Attēli  *Ieiet*

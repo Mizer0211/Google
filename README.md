@@ -1,5 +1,5 @@
 <html>
     <body>
-                                                                                     Pasts   Attēl   <strong>Ieiet</strong>
+                                                                       Pasts   Attēli   <strong>Ieiet</strong>
     </body>
 </html>
